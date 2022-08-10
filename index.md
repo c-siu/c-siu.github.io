@@ -4,6 +4,8 @@ Chunyin Siu (Alex) is a PhD candidate at Cornell University at [the Center for A
 
 His research interests lie in the intersection of topological data analysis, network analysis and statistics. He is advised by [Prof. Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/).
 
+![Chunyin Siu (Alex)](headshot.jpg)
+
 # About Me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
