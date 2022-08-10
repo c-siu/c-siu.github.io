@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+# Chunyin Siu (Alex)'s Homepage
 
-You can use the [editor on GitHub](https://github.com/c-siu/c-siu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Chunyin Siu (Alex) is a PhD candidate at Cornell University at [the Center for Applied Mathematics](https://https://www.cam.cornell.edu/cam), and is a [Croucher scholar (2019)](https://scholars.croucher.org.hk/scholars/siu-chun-yin) and a [Youde scholar](https://www.wfsfaa.gov.hk/sfo/seymf/en/index.htm) [(2018)](https://www.wfsfaa.gov.hk/sfo/pdf/common/Form/sgl/seym8.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+His research interests lie in the intersection of topological data analysis, network analysis and statistics. He is advised by [Prof. Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/).
 
-### Markdown
+# About Me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
