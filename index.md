@@ -2,38 +2,50 @@
 
 Chunyin Siu (Alex) is a PhD candidate at Cornell University at [the Center for Applied Mathematics](https://www.cam.cornell.edu/cam), and is a [Croucher scholar (2019)](https://scholars.croucher.org.hk/scholars/siu-chun-yin) and a [Youde scholar](https://www.wfsfaa.gov.hk/sfo/seymf/en/index.htm) [(2018)](https://www.wfsfaa.gov.hk/sfo/pdf/common/Form/sgl/seym8.pdf).
 
-His research interests lie in the intersection of topological data analysis, network analysis and statistics. He is advised by [Prof. Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/).
+His primary research interests lie in the intersection of topological data analysis, network analysis, statistics and computational geometry. He is advised by [Prof. Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/).
 
 ![Chunyin Siu (Alex)](/headshot.JPG)
 
-# About Me
+- email: cs2323 at cornell dot edu
+- [Google scholar](https://scholar.google.com/citations?hl=en&user=rKVyMkIAAAAJ)
+- [resume](/resume.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research and Publications
 
-```markdown
-Syntax highlighted code block
+### Topological Data Analysis
 
-# Header 1
-## Header 2
-### Header 3
+* Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
+  + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
+  + Submitted to Journal of Applied Topology
+  + [arxiv](https://arxiv.org/abs/2204.07821.pdf)
+  + [source codes](https://github.com/c-siu/
+RDAD)
 
-- Bulleted
-- List
+### Computational Geometry
+* Decomposition of Longitudinal Deformations via Beltrami Descriptors
+  + H. Law, C. Siu, and R. Lui.
+  + [Journal of Scientific Computing 2021](https://doi.org/10.1007/s10915-021-01569-x)
 
-1. Numbered
-2. List
+ * Image Segmentation with Partial Convexity Shape Prior Using Discrete Conformality Structures
+   + C. Siu, H.L. Chan, and R. Lui 
+   + [SIAM Journal on Imaging Sciences 2020](https://doi.org/10.1137/19M129718X)
 
-**Bold** and _Italic_ and `Code` text
+### Miscellaneous
 
-[Link](url) and ![Image](src)
-```
+* Geometry and Laplacian on Discrete Magic Carpets
+  + E. Goodman, C. Siu, and R. Strichartz (alphabetical order)
+  + Accepted by Journal of Fractal Geometry.
+  + [arxiv](https://arxiv.org/abs/1902.03408)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* An Elementary Approach on Left-Orderability, Cables of Torus Knots and Dehn Surgery
+  + J. Li, and C. Siu (alphabetical order)
+  + [arxiv](https://arxiv.org/abs/1610.00898)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c-siu/c-siu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Personal
 
-### Support or Contact
+I am from Hong Kong. I would be really happy if you greet me with "zou sun" and "ng on" (Good morning and Good afternoon in Cantonese).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My favorite author is Dovdoyevski; favorite TV show, Taskmaster. The most serious and the most frivolous.
+
+I am mostly an indoor guy, but Ithaca has made me more active. Picked up hiking and ice-skating here. Try to catch me at a trail or in the rink.
