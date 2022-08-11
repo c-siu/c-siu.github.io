@@ -1,14 +1,14 @@
-# Chunyin Siu (Alex)'s Homepage
-
 Chunyin Siu (Alex) is a PhD candidate at Cornell University at [the Center for Applied Mathematics](https://www.cam.cornell.edu/cam), and is a [Croucher scholar (2019)](https://scholars.croucher.org.hk/scholars/siu-chun-yin) and a [Youde scholar](https://www.wfsfaa.gov.hk/sfo/seymf/en/index.htm) [(2018)](https://www.wfsfaa.gov.hk/sfo/pdf/common/Form/sgl/seym8.pdf).
 
 His primary research interests lie in the intersection of topological data analysis, network analysis, statistics and computational geometry. He is advised by [Prof. Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/).
 
-![Chunyin Siu (Alex)](/headshot.JPG)
-
 - email: cs2323 at cornell dot edu
 - [Google scholar](https://scholar.google.com/citations?hl=en&user=rKVyMkIAAAAJ)
 - [resume](/resume.pdf)
+
+![Chunyin Siu (Alex)](/headshot.JPG)
+
+
 
 ## Research and Publications
 
