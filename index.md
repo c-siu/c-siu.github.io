@@ -46,6 +46,6 @@ RDAD)
 
 I am from Hong Kong. I would be really happy if you greet me with "zou sun" and "ng on" (Good morning and Good afternoon in Cantonese).
 
-My favorite author is Dovdoyevski; favorite TV show, Taskmaster. The most serious and the most frivolous.
+My favorite author is Dostoyevsky; favorite TV show, Taskmaster. The most serious and the most frivolous.
 
 I am mostly an indoor guy, but Ithaca has made me more active. Picked up hiking and ice-skating here. Try to catch me at a trail or in the rink.
