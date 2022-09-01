@@ -6,9 +6,6 @@ His primary research interests lie in the intersection of topological data analy
 - [Google scholar](https://scholar.google.com/citations?hl=en&user=rKVyMkIAAAAJ)
 - [resume](/resume.pdf)
 
-![Chunyin Siu (Alex)](/headshot.JPG)
-
-
 
 ## Research and Publications
 
