@@ -13,7 +13,7 @@ His primary research interests lie in the intersection of topological data analy
 
 * Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
-  + Submitted to Journal of Applied Topology
+  + Submitted to Journal of Applied and Computational Topology
   + [arxiv](https://arxiv.org/abs/2204.07821.pdf)
   + [source codes](https://github.com/c-siu/
 RDAD)
