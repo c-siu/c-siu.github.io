@@ -13,10 +13,12 @@ His primary research interests lie in the intersection of topological data analy
 
 * Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
-  + Submitted to Journal of Applied and Computational Topology
+  + Submitted to Journal of Applied Topology
   + [arxiv](https://arxiv.org/abs/2204.07821.pdf)
   + [source codes](https://github.com/c-siu/
 RDAD)
+  + [poster for ATMCS 10](/RDAD/RDAD_poster.pdf)
+  + [slides](/RDAD/RDAD_20min_slides.pdf)
 
 ### Computational Geometry
 * Decomposition of Longitudinal Deformations via Beltrami Descriptors
@@ -38,6 +40,27 @@ RDAD)
   + J. Li, and C. Siu (alphabetical order)
   + [arxiv](https://arxiv.org/abs/1610.00898)
 
+
+## Talks and Presentations
+
+* Nov 17, 2022: Morse Theory Seminar for Cornell Graduate Students
+  + Introduction to Discrete Morse Theory
+
+* Nov 6, 2022: Binghamton University Graduate Combinatorics, Algebra and Topology (BUGCAT 2022)
+  + Detection of Small Cycles in Data by the Scale-FInvariant Robust Density-Aware Distance (RDAD) Filtration
+  + [slides](/RDAD/RDAD_20min_slides.pdf)
+
+* Oct 22, 2022: 3rd Upstate New York Topology Seminar (UNYTS 3)
+  + Detection of Small Cycles in Data by the Scale-FInvariant Robust Density-Aware Distance (RDAD) Filtration
+  + [slides](/RDAD/RDAD_20min_slides.pdf)
+
+* Jun 20, 2022: Algebraic Topology: Methods, Computation and Science 10 (ATMCS 10)
+  + Detection of Small Topological Features by the Scale-FInvariant Robust Density-Aware Distance (RDAD) Filtration (Poster)
+  + [poster for ATMCS 10](/RDAD/RDAD_poster.pdf)
+
+* Mar 8, 2022: Olivette Club
+  + Topological Data Analysis: Klein Bottles and How Cornellians Find Them in Data
+  + [slides](/RDAD/olivette_slides.pdf)
 
 ## Personal
 
