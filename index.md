@@ -13,7 +13,7 @@ His primary research interests lie in the intersection of topological data analy
 
 * Betti Numbers of Preferential Attachment Complexes
   + [slides](/preferentialAttachment/preferentialAttachment_15min.pdf)
-
+/Users/alexsiu/Documents/GitHub/c-siu.github.io/preferentialAttachment
 * Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
   + Submitted to Journal of Applied Topology
