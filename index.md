@@ -12,6 +12,7 @@ His primary research interests lie in the intersection of topological data analy
 ### Applied Topology
 
 * Betti Numbers of Preferential Attachment Complexes
+  + [poster](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf)
   + [slides](/preferentialAttachment/preferentialAttachment_15min_new.pdf)
 
 * Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
