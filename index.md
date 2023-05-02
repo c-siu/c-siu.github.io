@@ -19,6 +19,7 @@ His primary research interests lie in the intersection of topological data analy
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
   + Submitted to Journal of Applied Topology
   + [arxiv](https://arxiv.org/abs/2204.07821.pdf)
+  + [video](https://www.youtube.com/watch?v=X5c3_bbwQ7Q)
   + [source codes](https://github.com/c-siu/
 RDAD)
   + [poster for ATMCS 10](/RDAD/RDAD_poster.pdf)
