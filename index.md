@@ -12,13 +12,14 @@ His primary research interests lie in the intersection of topological data analy
 ### Applied Topology
 
 * Betti Numbers of Preferential Attachment Complexes
+  + [arxiv](https://arxiv.org/abs/2305.11259)
   + [poster](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf)
   + [slides](/preferentialAttachment/preferentialAttachment_15min_new.pdf)
 
 * Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
   + Submitted to Journal of Applied Topology
-  + [arxiv](https://arxiv.org/abs/2204.07821.pdf)
+  + [arxiv](https://arxiv.org/abs/2204.07821)
   + [video](https://www.youtube.com/watch?v=X5c3_bbwQ7Q)
   + [source codes](https://github.com/c-siu/
 RDAD)
