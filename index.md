@@ -18,7 +18,7 @@ His primary research interests lie in the intersection of topological data analy
 
 * Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
-  + Submitted to Journal of Applied Topology
+  + Submitted to Journal of Applied and Computational Topology
   + [arxiv](https://arxiv.org/abs/2204.07821)
   + [video](https://www.youtube.com/watch?v=X5c3_bbwQ7Q)
   + [source codes](https://github.com/c-siu/
@@ -38,9 +38,8 @@ RDAD)
 ### Miscellaneous
 
 * Geometry and Laplacian on Discrete Magic Carpets
-  + E. Goodman, C. Siu, and R. Strichartz (alphabetical order)
-  + Accepted by Journal of Fractal Geometry.
-  + [arxiv](https://arxiv.org/abs/1902.03408)
+  + C. Siu, and R. Strichartz (alphabetical order)
+  + [Journal of Fractal Geometry 2023](https://ems.press/journals/jfg/articles/10964400)
 
 * An Elementary Approach on Left-Orderability, Cables of Torus Knots and Dehn Surgery
   + J. Li, and C. Siu (alphabetical order)
@@ -48,6 +47,14 @@ RDAD)
 
 
 ## Talks and Presentations
+
+* Jun 8, 2023: Geometry and Topology meet Data Analysis and Machine Learning 2023
+  + The Many Holes of Preferential Attachment"
+  + [slides](/preferentialAttachment/preferentialAttachmentToplogy_northeastern_230608.pdf)
+
+* Mar 22, 2023: Randomness in Topology and its Applications (IMSI workshop)
+  + "Betti Numbers of Preferential Attachment Complexes" (poster).
++ [poster](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf)
 
 * Nov 17, 2022: Morse Theory Seminar for Cornell Graduate Students
   + Introduction to Discrete Morse Theory
@@ -62,7 +69,7 @@ RDAD)
 
 * Jun 20, 2022: Algebraic Topology: Methods, Computation and Science 10 (ATMCS 10)
   + Detection of Small Topological Features by the Scale-FInvariant Robust Density-Aware Distance (RDAD) Filtration (Poster)
-  + [poster for ATMCS 10](/RDAD/RDAD_poster.pdf)
+  + [poster](/RDAD/RDAD_poster.pdf)
 
 * Mar 8, 2022: Olivette Club
   + Topological Data Analysis: Klein Bottles and How Cornellians Find Them in Data
@@ -72,6 +79,6 @@ RDAD)
 
 I am from Hong Kong. I would be really happy if you greet me with "zou sun" and "ng on" (Good morning and Good afternoon in Cantonese).
 
-My favorite author is Dostoyevsky; favorite TV show, Taskmaster. The most serious and the most frivolous.
+My favorite author is Dostoyevsky; favorite TV show, Taskmaster. Need to balance the heaviness and the lightness.
 
 I am mostly an indoor guy, but Ithaca has made me more active. Picked up hiking and ice-skating here. Try to catch me at a trail or in the rink.
