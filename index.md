@@ -12,13 +12,15 @@ His primary research interests lie in the intersection of topological data analy
 ### Applied Topology
 
 * Betti Numbers of Preferential Attachment Complexes
+  + C. Siu, G. Samorodnitsky, C. Yu, and R. He
+  + Submitted to Random Structures and Algorithms
   + [arxiv](https://arxiv.org/abs/2305.11259)
   + [poster](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf)
   + [slides](/preferentialAttachment/preferentialAttachment_15min_new.pdf)
 
 * Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
-  + Submitted to Journal of Applied and Computational Topology
+  + Submitted to the Journal of Applied and Computational Topology
   + [arxiv](https://arxiv.org/abs/2204.07821)
   + [video](https://www.youtube.com/watch?v=X5c3_bbwQ7Q)
   + [source codes](https://github.com/c-siu/
@@ -54,7 +56,7 @@ RDAD)
 
 * Mar 22, 2023: Randomness in Topology and its Applications (IMSI workshop)
   + "Betti Numbers of Preferential Attachment Complexes" (poster).
-+ [poster](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf)
+  + [poster](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf)
 
 * Nov 17, 2022: Morse Theory Seminar for Cornell Graduate Students
   + Introduction to Discrete Morse Theory
