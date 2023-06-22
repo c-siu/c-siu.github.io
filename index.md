@@ -79,7 +79,13 @@ RDAD)
 
 ## Teaching
 
-* [MATH1920 Fall 2023](/teaching/2301_1920.md)
+* [MATH1920 Spring 2023](/teaching/2301_1920.md)
+* [MATH1920 Fall 2022](https://canvas.cornell.edu/courses/42251)
+* [MATH2020 Spring 2019](/teaching/1901_2020.md)
+* [MATH4060 Fall 2018](/teaching/1809_4060.md)
+* [MATH2010 Spring 2018](/teaching/1801_2010.md)
+* MATH1510 Spring 2018
+* MATH1540 Fall 2017
 
 
 ## Personal
