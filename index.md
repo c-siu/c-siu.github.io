@@ -94,7 +94,7 @@ See Prof Inna Zakharevich's [homework guide](https://pi.math.cornell.edu/~zakh/h
 ## Undergraduate Mentorship
 
 If you are interested in doing an undergradate reading / research project, send me an email!
-* Fall 2021 Luis Hoderlein on Dimension Reduction and [UMAP](https://arxiv.org/abs/1802.03426), and [Category theory of Mapper](/mentoring/DRP_22S_category_exercise)
+* Fall 2021 Luis Hoderlein on Dimension Reduction and [UMAP](https://arxiv.org/abs/1802.03426), and [Category Theory of Mapper](/mentoring/DRP_22S_category_exercise.pdf)
 * Fall 2021 Tom Shi on [Ranking of Graph Data](https://link.springer.com/article/10.1007/s10107-010-0419-x)
 * Spring 2021 Andrey Yao on [Computational Topology II: From Persistent Homology to Ripser](/mentoring/DRP_21S.pdf)
 * Fall 2020 Andrey Yao on [Computational Topology: From Simplicial Complexes to Persistent Homology](/mentoring/DRP_20F.pdf)
@@ -110,7 +110,7 @@ If you are interested in doing an undergradate reading / research project, send 
   + [General Instructions for Final Draft of Short Paper ](https://math.mit.edu/~djk/18.310/final_draft_instructions.pdf) by Prof D. Kleitman
   + [More tips from MIT](https://ocw.mit.edu/courses/18-091-mathematical-exposition-spring-2005/pages/related-resources/)
   + [More tips compiled by grad students at Georgia Tech](https://dmargalit7.math.gatech.edu/tsr/writing.shtml)
-  + [What other undergraduates wrote at Chicago and their arxivs](https://math.uchicago.edu/~may/REU2022/)
+  + [What other undergraduates wrote at Chicago and their Latex templates](https://math.uchicago.edu/~may/REU2022/)
 
 ## Personal
 
