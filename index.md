@@ -6,6 +6,7 @@ His primary research interests lie in the intersection of topological data analy
 - [Google scholar](https://scholar.google.com/citations?hl=en&user=rKVyMkIAAAAJ)
 - [resume](/resume.pdf)
 
+Scroll down for the [Teaching](### Teaching) and [Mentorship](### Undergraduate Mentorship) sections.
 
 ## Research and Publications
 
@@ -79,6 +80,8 @@ RDAD)
 
 ## Teaching
 
+See Prof Inna Zakharevich's [homework guide](https://pi.math.cornell.edu/~zakh/homeworkguide.pdf).
+
 * [MATH1920 Spring 2023](/teaching/2301_1920.md)
 * [MATH1920 Fall 2022](https://canvas.cornell.edu/courses/42251)
 * [MATH2020 Spring 2019](/teaching/1901_2020.md)
@@ -87,6 +90,27 @@ RDAD)
 * [MATH2010 Spring 2018](/teaching/1801_2010.md)
 * MATH1510 Spring 2018
 * MATH1540 Fall 2017
+
+## Undergraduate Mentorship
+
+If you are interested in doing an undergradate reading / research project, send me an email!
+* Fall 2021 Luis Hoderlein on Dimension Reduction and [UMAP](https://arxiv.org/abs/1802.03426), and [Category theory of Mapper](/mentoring/DRP_22S_category_exercise)
+* Fall 2021 Tom Shi on [Ranking of Graph Data](https://link.springer.com/article/10.1007/s10107-010-0419-x)
+* Spring 2021 Andrey Yao on [Computational Topology II: From Persistent Homology to Ripser](/mentoring/DRP_21S.pdf)
+* Fall 2020 Andrey Yao on [Computational Topology: From Simplicial Complexes to Persistent Homology](/mentoring/DRP_20F.pdf)
+
+### Resources
+
+* Mathematical Talks
+  + [How to Avoid Death by PowerPoint](https://youtu.be/Iwpi1Lm6dFo) by D. Phillips
+  + [Tips compiled by grad students at Georgia Tech](https://dmargalit7.math.gatech.edu/tsr/talks.shtml)
+
+* Mathematical writing
+  + [Writing a Math Phase Two Paper](https://www.mit.edu/afs/athena.mit.edu/course/other/mathp2/www/piil.html) by Prof S. Kleiman and its [pdf version](https://www.math.uchicago.edu/~may/VIGRE/VIGRE2010/piiUJM2.pdf).
+  + [General Instructions for Final Draft of Short Paper ](https://math.mit.edu/~djk/18.310/final_draft_instructions.pdf) by Prof D. Kleitman
+  + [More tips from MIT](https://ocw.mit.edu/courses/18-091-mathematical-exposition-spring-2005/pages/related-resources/)
+  + [More tips compiled by grad students at Georgia Tech](https://dmargalit7.math.gatech.edu/tsr/writing.shtml)
+  + [What other undergraduates wrote at Chicago and their arxivs](https://math.uchicago.edu/~may/REU2022/)
 
 ## Personal
 
