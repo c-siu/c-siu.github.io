@@ -62,11 +62,11 @@ RDAD)
   + Introduction to Discrete Morse Theory
 
 * Nov 6, 2022: Binghamton University Graduate Combinatorics, Algebra and Topology (BUGCAT 2022)
-  + Detection of Small Cycles in Data by the Scale-FInvariant Robust Density-Aware Distance (RDAD) Filtration
+  + Detection of Small Cycles in Data by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
   + [slides](/RDAD/RDAD_20min_slides.pdf)
 
 * Oct 22, 2022: 3rd Upstate New York Topology Seminar (UNYTS 3)
-  + Detection of Small Cycles in Data by the Scale-FInvariant Robust Density-Aware Distance (RDAD) Filtration
+  + Detection of Small Cycles in Data by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
   + [slides](/RDAD/RDAD_20min_slides.pdf)
 
 * Jun 20, 2022: Algebraic Topology: Methods, Computation and Science 10 (ATMCS 10)
