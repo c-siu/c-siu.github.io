@@ -80,8 +80,6 @@ RDAD)
 
 ## Teaching
 
-See Prof Inna Zakharevich's [homework guide](https://pi.math.cornell.edu/~zakh/homeworkguide.pdf).
-
 * [MATH1920 Spring 2023](/teaching/2301_1920.md)
 * [MATH1920 Fall 2022](https://canvas.cornell.edu/courses/42251)
 * [MATH2020 Spring 2019](/teaching/1901_2020.md)
@@ -91,9 +89,16 @@ See Prof Inna Zakharevich's [homework guide](https://pi.math.cornell.edu/~zakh/h
 * MATH1510 Spring 2018
 * MATH1540 Fall 2017
 
+### Resources
+
+* Prof I. Zakharevich's [homework guide](https://pi.math.cornell.edu/~zakh/homeworkguide.pdf).
+* [Calculus](https://www.3blue1brown.com/topics/calculus) and [linear algebra](https://www.3blue1brown.com/topics/linear-algebra) with cool visualizations
+* D. Zemke's [tips on sketching](https://youtu.be/_aVtBVppqI4)
+
 ## Undergraduate Mentorship
 
 If you are interested in doing an undergradate reading / research project, send me an email!
+
 * Fall 2021 Luis Hoderlein on Dimension Reduction and [UMAP](https://arxiv.org/abs/1802.03426), and [Category Theory of Mapper](/mentoring/DRP_22S_category_exercise.pdf)
 * Fall 2021 Tom Shi on [Ranking of Graph Data](https://link.springer.com/article/10.1007/s10107-010-0419-x)
 * Spring 2021 Andrey Yao on [Computational Topology II: From Persistent Homology to Ripser](/mentoring/DRP_21S.pdf)
