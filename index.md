@@ -91,7 +91,7 @@ RDAD)
 
 ### Resources
 
-* Prof I. Zakharevich's [homework guide](https://pi.math.cornell.edu/~zakh/homeworkguide.pdf).
+* Prof. I. Zakharevich's [homework guide](https://pi.math.cornell.edu/~zakh/homeworkguide.pdf).
 * [Calculus](https://www.3blue1brown.com/topics/calculus) and [linear algebra](https://www.3blue1brown.com/topics/linear-algebra) with cool visualizations
 * D. Zemke's [tips on sketching](https://youtu.be/_aVtBVppqI4)
 
@@ -108,13 +108,13 @@ If you are interested in doing an undergradate reading / research project, send 
 
 * Mathematical Talks
   + [How to Avoid Death by PowerPoint](https://youtu.be/Iwpi1Lm6dFo) by D. Phillips
-  + [Tips compiled by grad students at Georgia Tech](https://dmargalit7.math.gatech.edu/tsr/talks.shtml)
+  + [Tips compiled by Dan Margalit](https://dmargalit7.math.gatech.edu/tsr/talks.shtml)
 
 * Mathematical writing
-  + [Writing a Math Phase Two Paper](https://www.mit.edu/afs/athena.mit.edu/course/other/mathp2/www/piil.html) by Prof S. Kleiman and its [pdf version](https://www.math.uchicago.edu/~may/VIGRE/VIGRE2010/piiUJM2.pdf).
-  + [General Instructions for Final Draft of Short Paper ](https://math.mit.edu/~djk/18.310/final_draft_instructions.pdf) by Prof D. Kleitman
-  + [More tips from MIT](https://ocw.mit.edu/courses/18-091-mathematical-exposition-spring-2005/pages/related-resources/)
-  + [More tips compiled by grad students at Georgia Tech](https://dmargalit7.math.gatech.edu/tsr/writing.shtml)
+  + [Writing a Math Phase Two Paper](https://www.mit.edu/afs/athena.mit.edu/course/other/mathp2/www/piil.html) by Prof. S. Kleiman and its [pdf version](https://www.math.uchicago.edu/~may/VIGRE/VIGRE2010/piiUJM2.pdf).
+  + [General Instructions for Final Draft of Short Paper ](https://math.mit.edu/~djk/18.310/final_draft_instructions.pdf) by Prof. D. Kleitman
+  + [More tips compiled by Dr E. Carberry](https://ocw.mit.edu/courses/18-091-mathematical-exposition-spring-2005/pages/related-resources/)
+  + [More tips compiled by Prof. D. Margalit](https://dmargalit7.math.gatech.edu/tsr/writing.shtml)
   + [What other undergraduates wrote at Chicago and their Latex templates](https://math.uchicago.edu/~may/REU2022/)
 
 ## Personal
