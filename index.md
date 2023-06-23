@@ -97,7 +97,9 @@ RDAD)
 * Prof. I. Zakharevich's [homework guide](https://pi.math.cornell.edu/~zakh/homeworkguide.pdf).
 * Prof. F. Su's guidelines for good mathematical writing for [lower-division students](https://math.hmc.edu/su/wp-content/uploads/sites/10/2020/06/Writing-Math-Well-HMC-Math.pdf) and [upper division students](https://math.hmc.edu/su/wp-content/uploads/sites/10/2020/08/Guidelines-for-Good-Mathematical-Writing.pdf)
 * G. Sanderson's cool visualizations of [calculus](https://www.3blue1brown.com/topics/calculus) and [linear algebra](https://www.3blue1brown.com/topics/linear-algebra)
-* D. Zemke's [tips on sketching](https://youtu.be/_aVtBVppqI4)
+* D. Zemke's [tips on graph sketching](https://youtu.be/_aVtBVppqI4)
+* The Harvard Physics Department’s
+[Guide to The Hidden Curriculum](https://www.physics.harvard.edu/files/physics/files/hidden_curriculum_082921.pdf)
 
 ## Undergraduate Mentorship
 
