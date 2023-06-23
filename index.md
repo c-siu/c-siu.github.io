@@ -2,6 +2,8 @@ Chunyin Siu (Alex) is a PhD candidate at Cornell University at [the Center for A
 
 His primary research interests lie in the intersection of topological data analysis, network analysis, statistics and computational geometry. He is advised by [Prof. Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/).
 
+He is looking for a postdoc position for 2024/25.
+
 - email: cs2323 at cornell dot edu
 - [Google scholar](https://scholar.google.com/citations?hl=en&user=rKVyMkIAAAAJ)
 - [resume](/resume.pdf)
