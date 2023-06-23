@@ -91,6 +91,7 @@ RDAD)
 
 ### Resources
 
+* Dr. K. Delp's [unsolicited advice](/teaching/delp_advice.pdf).
 * Prof. I. Zakharevich's [homework guide](https://pi.math.cornell.edu/~zakh/homeworkguide.pdf).
 * [Calculus](https://www.3blue1brown.com/topics/calculus) and [linear algebra](https://www.3blue1brown.com/topics/linear-algebra) with cool visualizations
 * D. Zemke's [tips on sketching](https://youtu.be/_aVtBVppqI4)
