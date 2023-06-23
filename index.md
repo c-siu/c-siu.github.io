@@ -6,7 +6,7 @@ His primary research interests lie in the intersection of topological data analy
 - [Google scholar](https://scholar.google.com/citations?hl=en&user=rKVyMkIAAAAJ)
 - [resume](/resume.pdf)
 
-Scroll down for the [Teaching](### Teaching) and [Mentorship](### Undergraduate Mentorship) sections.
+Scroll down for the [Teaching](###teaching) and [Mentorship](###undergraduate-mentorship) sections.
 
 ## Research and Publications
 
