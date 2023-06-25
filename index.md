@@ -112,7 +112,7 @@ If you are interested in doing an undergradate reading / research project, send 
 
 ### Resources
 
-* Mathematical Talks
+* Mathematical talks
   + [How to Avoid Death by PowerPoint](https://youtu.be/Iwpi1Lm6dFo) by D. Phillips
   + [Tips compiled by Dan Margalit](https://dmargalit7.math.gatech.edu/tsr/talks.shtml)
 
@@ -122,6 +122,15 @@ If you are interested in doing an undergradate reading / research project, send 
   + [More tips compiled by Dr E. Carberry](https://ocw.mit.edu/courses/18-091-mathematical-exposition-spring-2005/pages/related-resources/)
   + [More tips compiled by Prof. D. Margalit](https://dmargalit7.math.gatech.edu/tsr/writing.shtml)
   + [What other undergraduates wrote at Chicago and their Latex templates](https://math.uchicago.edu/~may/REU2022/)
+  + [LaTex Tutorials](https://www.overleaf.com/learn/latex/Tutorials) on Overleaf
+* Coding practices
+  + Discussion on good coding practices on [Software Engineering Stackexchange](https://softwareengineering.stackexchange.com/questions/99980/develop-fast-and-buggy-then-correct-errors-or-be-slow-careful-for-each-line-of?noredirect=1&lq=1) and [Stack Overflow](https://stackoverflow.com/questions/209015/what-is-self-documenting-code-and-can-it-replace-well-documented-code)
+  + The [SOLID](https://en.wikipedia.org/wiki/SOLID) principles for writing clean codes
+  + Cassidy Williams' [introduction to functional programming](https://github.com/readme/guides/functional-programming-basics)
+  + Beginners' guide to programming on [Reddit](https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_getting_started)
+* Coding tutorials
+  + Mike Lee's [Conda tutorial](https://astrobiomike.github.io/unix/)
+  + [Introduction to Github](https://github.com/skills/introduction-to-github) on Github
 
 ## Personal
 
