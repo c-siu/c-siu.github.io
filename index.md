@@ -119,17 +119,17 @@ If you are interested in doing an undergradate reading / research project, send 
 * Mathematical writing
   + [Writing a Math Phase Two Paper](https://www.mit.edu/afs/athena.mit.edu/course/other/mathp2/www/piil.html) by Prof. S. Kleiman and its [pdf version](https://www.math.uchicago.edu/~may/VIGRE/VIGRE2010/piiUJM2.pdf).
   + [General Instructions for Final Draft of Short Paper ](https://math.mit.edu/~djk/18.310/final_draft_instructions.pdf) by Prof. D. Kleitman
-  + [More tips compiled by Dr E. Carberry](https://ocw.mit.edu/courses/18-091-mathematical-exposition-spring-2005/pages/related-resources/)
+  + [More tips compiled by Dr. E. Carberry](https://ocw.mit.edu/courses/18-091-mathematical-exposition-spring-2005/pages/related-resources/)
   + [More tips compiled by Prof. D. Margalit](https://dmargalit7.math.gatech.edu/tsr/writing.shtml)
   + [What other undergraduates wrote at Chicago and their Latex templates](https://math.uchicago.edu/~may/REU2022/)
   + [LaTex Tutorials](https://www.overleaf.com/learn/latex/Tutorials) on Overleaf
 * Coding skills
   + Some Stackexchange and Stack Overflow discussions on [self-documenting codes](https://stackoverflow.com/questions/209015/what-is-self-documenting-code-and-can-it-replace-well-documented-code), [code reuse](https://softwareengineering.stackexchange.com/questions/392686/how-to-obey-dry-principle), [unit testing](https://stackoverflow.com/questions/652292/what-is-unit-testing-and-how-do-you-do-it), [quality codes](https://softwareengineering.stackexchange.com/questions/99980/develop-fast-and-buggy-then-correct-errors-or-be-slow-careful-for-each-line-of?noredirect=1&lq=1) and [the use of debuggers](https://softwareengineering.stackexchange.com/questions/78152/real-programmers-use-debuggers)
   + The [SOLID](https://en.wikipedia.org/wiki/SOLID) principles for writing clean codes
-  + Cassidy Williams' [introduction to functional programming](https://github.com/readme/guides/functional-programming-basics)
+  + C. Williams' [introduction to functional programming](https://github.com/readme/guides/functional-programming-basics)
   + Beginners' guide to programming on [Reddit](https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_getting_started)
 * Coding tutorials
-  + Mike Lee's [Conda tutorial](https://astrobiomike.github.io/unix/)
+  + Dr. M. Lee's [Conda tutorial](https://astrobiomike.github.io/unix/)
   + [Introduction to Github](https://github.com/skills/introduction-to-github) on Github
 
 ## Personal
