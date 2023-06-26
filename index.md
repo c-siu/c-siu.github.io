@@ -96,8 +96,8 @@ RDAD)
 * Dr. K. Delp's [unsolicited advice](/teaching/delp_advice.pdf).
 * Prof. I. Zakharevich's [homework guide](https://pi.math.cornell.edu/~zakh/homeworkguide.pdf).
 * Prof. F. Su's guidelines for good mathematical writing for [lower-division students](https://math.hmc.edu/su/wp-content/uploads/sites/10/2020/06/Writing-Math-Well-HMC-Math.pdf) and [upper division students](https://math.hmc.edu/su/wp-content/uploads/sites/10/2020/08/Guidelines-for-Good-Mathematical-Writing.pdf)
-* G. Sanderson's cool visualizations of [calculus](https://www.3blue1brown.com/topics/calculus) and [linear algebra](https://www.3blue1brown.com/topics/linear-algebra)
 * D. Zemke's [tips on graph sketching](https://youtu.be/_aVtBVppqI4)
+* G. Sanderson's cool visualizations of [calculus](https://www.3blue1brown.com/topics/calculus) and [linear algebra](https://www.3blue1brown.com/topics/linear-algebra)
 * The Harvard Physics Department’s
 [Guide to The Hidden Curriculum](https://www.physics.harvard.edu/files/physics/files/hidden_curriculum_082921.pdf)
 
@@ -124,7 +124,7 @@ If you are interested in doing an undergradate reading / research project, send 
   + [What other undergraduates wrote at Chicago and their Latex templates](https://math.uchicago.edu/~may/REU2022/)
   + [LaTex Tutorials](https://www.overleaf.com/learn/latex/Tutorials) on Overleaf
 * Coding practices
-  + Discussion on good coding practices on [Software Engineering Stackexchange](https://softwareengineering.stackexchange.com/questions/99980/develop-fast-and-buggy-then-correct-errors-or-be-slow-careful-for-each-line-of?noredirect=1&lq=1) and [Stack Overflow](https://stackoverflow.com/questions/209015/what-is-self-documenting-code-and-can-it-replace-well-documented-code)
+  + Some Stackexchange and Stack Overflow discussions on [self-documenting codes](https://stackoverflow.com/questions/209015/what-is-self-documenting-code-and-can-it-replace-well-documented-code), [code reuse](https://softwareengineering.stackexchange.com/questions/392686/how-to-obey-dry-principle), [unit testing](https://stackoverflow.com/questions/652292/what-is-unit-testing-and-how-do-you-do-it), [quality codes](https://softwareengineering.stackexchange.com/questions/99980/develop-fast-and-buggy-then-correct-errors-or-be-slow-careful-for-each-line-of?noredirect=1&lq=1) and [the use of debuggers](https://softwareengineering.stackexchange.com/questions/78152/real-programmers-use-debuggers)
   + The [SOLID](https://en.wikipedia.org/wiki/SOLID) principles for writing clean codes
   + Cassidy Williams' [introduction to functional programming](https://github.com/readme/guides/functional-programming-basics)
   + Beginners' guide to programming on [Reddit](https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_getting_started)
