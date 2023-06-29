@@ -131,6 +131,9 @@ If you are interested in doing an undergradate reading / research project, send 
 * Coding tutorials
   + Dr. M. Lee's [Conda tutorial](https://astrobiomike.github.io/unix/)
   + [Introduction to Github](https://github.com/skills/introduction-to-github) on Github
+* Data management
+  + Harvard LMA RDMWG's [tips for naming files](https://datamanagement.hms.harvard.edu/plan-design/file-naming-conventions)
+  + The [FAIR principle](https://www.go-fair.org/fair-principles/)
 
 ## Personal
 
