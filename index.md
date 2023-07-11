@@ -135,6 +135,13 @@ If you are interested in doing an undergradate reading / research project, send 
   + Harvard LMA RDMWG's [tips for naming files](https://datamanagement.hms.harvard.edu/plan-design/file-naming-conventions)
   + The [FAIR principle](https://www.go-fair.org/fair-principles/)
 
+* Undergraduate Research Opportunities
+  + at [Williams](https://math.williams.edu/small/)
+  + at [Cornell](https://math.cornell.edu/undergraduate-research)
+  + at [Chicago](https://math.uchicago.edu/~may/REU2023/) (modify the link to see the most up-to-date page)
+  + at [Lawrence Berkeley National Lab](https://education.lbl.gov/internships/)
+  + at [MSRI](https://www.msri.org/web/msri/education/for-undergraduates/msri-up)
+  + through many [NSF-funded programs](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5044&showItems=All)
 ## Personal
 
 I am from Hong Kong. I would be really happy if you greet me with "zou sun" and "ng on" (Good morning and Good afternoon in Cantonese).
