@@ -8,7 +8,7 @@ He is looking for a postdoc position for 2024/25.
 - [Google scholar](https://scholar.google.com/citations?hl=en&user=rKVyMkIAAAAJ)
 - [resume](/resume.pdf)
 
-Scroll down for the [Teaching](#teaching) and [Mentorship](#undergraduate-mentorship) sections.
+Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorship), and [Personal](#personal) sections.
 
 ## Research and Publications
 
@@ -142,6 +142,7 @@ If you are interested in doing an undergradate reading / research project, send 
   + at [Lawrence Berkeley National Lab](https://education.lbl.gov/internships/)
   + at [MSRI](https://www.msri.org/web/msri/education/for-undergraduates/msri-up)
   + through many [NSF-funded programs](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5044&showItems=All)
+
 ## Personal
 
 I am from Hong Kong. I would be really happy if you greet me with "zou sun" and "ng on" (Good morning and Good afternoon in Cantonese).
