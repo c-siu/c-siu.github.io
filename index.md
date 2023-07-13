@@ -91,7 +91,7 @@ RDAD)
 * MATH1510 Spring 2018
 * MATH1540 Fall 2017
 
-### Resources
+### Resources for Learning
 
 * Dr. K. Delp's [unsolicited advice](/teaching/delp_advice.pdf).
 * Prof. I. Zakharevich's [homework guide](https://pi.math.cornell.edu/~zakh/homeworkguide.pdf).
@@ -110,7 +110,7 @@ If you are interested in doing an undergradate reading / research project, send 
 * Spring 2021 Andrey Yao on [Computational Topology II: From Persistent Homology to Ripser](/mentoring/DRP_21S.pdf)
 * Fall 2020 Andrey Yao on [Computational Topology: From Simplicial Complexes to Persistent Homology](/mentoring/DRP_20F.pdf)
 
-### Resources
+### Resources for Research
 
 * Mathematical talks
   + [How to Avoid Death by PowerPoint](https://youtu.be/Iwpi1Lm6dFo) by D. Phillips
