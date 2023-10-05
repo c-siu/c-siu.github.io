@@ -14,22 +14,14 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 
 ### Applied Topology
 
-* Betti Numbers of Preferential Attachment Complexes
+* Betti Numbers of Preferential Attachment Complexes (Submitted)
   + C. Siu, G. Samorodnitsky, C. Yu, and R. He
-  + Submitted to Random Structures and Algorithms
-  + [arxiv](https://arxiv.org/abs/2305.11259)
-  + [poster](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf)
-  + [slides](/preferentialAttachment/preferentialAttachment_15min_new.pdf)
+  + [arxiv](https://arxiv.org/abs/2305.11259) [poster](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf) [slides](/preferentialAttachment/preferentialAttachment_15min_new.pdf) [codes](https://github.com/carolinerongyi/Preferential_Attachment_Clique_Complex)
 
-* Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
+* Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration (Submitted)
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
-  + Submitted to the Journal of Applied and Computational Topology
-  + [arxiv](https://arxiv.org/abs/2204.07821)
-  + [video](https://www.youtube.com/watch?v=X5c3_bbwQ7Q)
-  + [source codes](https://github.com/c-siu/
-RDAD)
-  + [poster for ATMCS 10](/RDAD/RDAD_poster.pdf)
-  + [slides](/RDAD/RDAD_20min_slides.pdf)
+  + [arxiv](https://arxiv.org/abs/2204.07821) [video](https://www.youtube.com/watch?v=X5c3_bbwQ7Q) [source codes](https://github.com/c-siu/
+RDAD) [poster for ATMCS 10](/RDAD/RDAD_poster.pdf) [slides](/RDAD/RDAD_20min_slides.pdf)
 
 ### Computational Geometry
 * Decomposition of Longitudinal Deformations via Beltrami Descriptors
@@ -52,6 +44,28 @@ RDAD)
 
 
 ## Talks and Presentations
+
+* Sep 29, 2023: Computation Persistence Workshop
+  + "The Asymptotics of the Expected Betti Numbers of Preferential Attachment Clique Complexes -- Theory and Computational Challenges".
+  + [slides](/preferentialAttachment/preferentialAttachmentToplogy_comper_230929.pdf)
+
+* Sep 27, 2023: Probability Seminar (invited), Purdue University
+  + The Topology of Preferential Attachment Graphs
+  + [slides](/preferentialAttachment/preferentialAttachmentToplogy_perdueProb_230927.pdf)
+
+* Sep 20, 2023: Seminario Doctorado, Actividad del Programa de Doctorado "Mathematicas" (invited), University of Seville
+  + The Topology of Preferential Attachment
+  + [slides](/preferentialAttachment/preferentialAttachmentToplogy_sevilleAppliedTopo_230920.pdf)
+
+
+* Sep 14, 2023: Probability and Applications Seminar (invited), Queen Mary University of London
+  + The Topology of Preferential Attachment Graphs
+  + [slides](/preferentialAttachment/preferentialAttachmentToplogy_queenmaryProb_230914.pdf)
+
+
+* Aug 6, 2023: Joint Statistics Meetings 2023
+  + Discovery of Small Dense Topological Features from Dataset
+  + [slides](/RDAD/RDAD_jsm2023.pdf)
 
 * Jun 8, 2023: Geometry and Topology meet Data Analysis and Machine Learning 2023
   + The Many Holes of Preferential Attachment"
