@@ -16,12 +16,12 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 
 * Betti Numbers of Preferential Attachment Complexes (Submitted)
   + C. Siu, G. Samorodnitsky, C. Yu, and R. He
-  + [arxiv](https://arxiv.org/abs/2305.11259) [poster](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf) [slides](/preferentialAttachment/preferentialAttachment_15min_new.pdf) [codes](https://github.com/carolinerongyi/Preferential_Attachment_Clique_Complex)
+  + [(arxiv)](https://arxiv.org/abs/2305.11259) [(poster)](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf) [(slides)](/preferentialAttachment/preferentialAttachment_15min_new.pdf) [(codes)](https://github.com/carolinerongyi/Preferential_Attachment_Clique_Complex)
 
 * Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration (Submitted)
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
-  + [arxiv](https://arxiv.org/abs/2204.07821) [video](https://www.youtube.com/watch?v=X5c3_bbwQ7Q) [source codes](https://github.com/c-siu/
-RDAD) [poster for ATMCS 10](/RDAD/RDAD_poster.pdf) [slides](/RDAD/RDAD_20min_slides.pdf)
+  + [(arxiv)](https://arxiv.org/abs/2204.07821) [(video)](https://www.youtube.com/watch?v=X5c3_bbwQ7Q) [(source codes)](https://github.com/c-siu/
+RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min_slides.pdf)
 
 ### Computational Geometry
 * Decomposition of Longitudinal Deformations via Beltrami Descriptors
