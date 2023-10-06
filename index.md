@@ -16,7 +16,7 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 
 * Betti Numbers of Preferential Attachment Complexes (Submitted)
   + C. Siu, G. Samorodnitsky, C. Yu, and R. He
-  + [(arxiv)](https://arxiv.org/abs/2305.11259) [(poster)](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf) [(slides)](/preferentialAttachment/preferentialAttachment_15min_new.pdf) [(codes)](https://github.com/carolinerongyi/Preferential_Attachment_Clique_Complex)
+  + [(arxiv)](https://arxiv.org/abs/2305.11259) [(poster)](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf) [(slides)](/preferentialAttachment/preferentialAttachmentToplogy_sevilleAppliedTopo_230920.pdf) [(codes)](https://github.com/carolinerongyi/Preferential_Attachment_Clique_Complex)
 
 * Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration (Submitted)
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
@@ -74,6 +74,10 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 * Mar 22, 2023: Randomness in Topology and its Applications (IMSI workshop)
   + "Betti Numbers of Preferential Attachment Complexes" (poster).
   + [poster](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf)
+
+* Feb 26, 2023: Finger Lakes Probability Seminar
+  + "Expected Betti Numbers of Preferential Attachment Complexes"
+  + [slides](/preferentialAttachment/preferentialAttachment_15min_new.pdf)
 
 * Nov 17, 2022: Morse Theory Seminar for Cornell Graduate Students
   + Introduction to Discrete Morse Theory
