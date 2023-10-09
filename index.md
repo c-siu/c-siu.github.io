@@ -16,7 +16,7 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 
 * Betti Numbers of Preferential Attachment Complexes (Submitted)
   + C. Siu, G. Samorodnitsky, C. Yu, and R. He
-  + [(arxiv)](https://arxiv.org/abs/2305.11259) [(poster)](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf) [(slides)](/preferentialAttachment/preferentialAttachmentToplogy_sevilleAppliedTopo_230920.pdf) [(codes)](https://github.com/carolinerongyi/Preferential_Attachment_Clique_Complex)
+  + [(arxiv)](https://arxiv.org/abs/2305.11259) [(poster)](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf) [(slides)](/preferentialAttachment/preferentialAttachmentTopology_sevilleAppliedTopo_230920.pdf) [(codes)](https://github.com/carolinerongyi/Preferential_Attachment_Clique_Complex)
 
 * Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration (Submitted)
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
