@@ -55,7 +55,7 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 * Sep 20, 2023: Seminario Doctorado, Actividad del Programa de Doctorado "Mathematicas" (invited), University of Seville
   + The Topology of Preferential Attachment
-  + [slides](/preferentialAttachment/preferentialAttachmentToplogy_sevilleAppliedTopo_230920.pdf)
+  + [slides](/preferentialAttachment/preferentialAttachmentTopology_sevilleAppliedTopo_230920.pdf)
 
 
 * Sep 14, 2023: Probability and Applications Seminar (invited), Queen Mary University of London
