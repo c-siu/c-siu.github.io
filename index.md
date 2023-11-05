@@ -51,15 +51,15 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 * Nov 1, 2023: Applied Algebraic Topology Research Network (AATRN) Online Seminar
   + "The Asymptotics of the Expected Betti Numbers of Preferential Attachment Clique Complexes".
-  + [slides](/preferentialAttachment/preferentialAttachmentToplogy_aatrn_231101.pdf)
+  + [slides](/preferentialAttachment/preferentialAttachmentTopology_aatrn_231101.pdf)
 
 * Sep 29, 2023: Computation Persistence Workshop
   + "The Asymptotics of the Expected Betti Numbers of Preferential Attachment Clique Complexes -- Theory and Computational Challenges".
-  + [slides](/preferentialAttachment/preferentialAttachmentToplogy_comper_230929.pdf)
+  + [slides](/preferentialAttachment/preferentialAttachmentTopology_comper_230929.pdf)
 
 * Sep 27, 2023: Probability Seminar (invited), Purdue University
   + The Topology of Preferential Attachment Graphs
-  + [slides](/preferentialAttachment/preferentialAttachmentToplogy_perdueProb_230927.pdf)
+  + [slides](/preferentialAttachment/preferentialAttachmentTopology_perdueProb_230927.pdf)
 
 * Sep 20, 2023: Seminario Doctorado, Actividad del Programa de Doctorado "Mathematicas" (invited), University of Seville
   + The Topology of Preferential Attachment
@@ -68,7 +68,7 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 * Sep 14, 2023: Probability and Applications Seminar (invited), Queen Mary University of London
   + The Topology of Preferential Attachment Graphs
-  + [slides](/preferentialAttachment/preferentialAttachmentToplogy_queenmaryProb_230914.pdf)
+  + [slides](/preferentialAttachment/preferentialAttachmentTopology_queenmaryProb_230914.pdf)
 
 
 * Aug 6, 2023: Joint Statistics Meetings 2023
