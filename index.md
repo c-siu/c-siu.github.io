@@ -47,7 +47,7 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 * Nov 3, 2023: Applied Topology Seminar (invited; virtual), Oxford University
   + "The Expected Betti Numbers of Preferential Attachment Clique Complexes".
-  + [slides](/preferentialAttachment/preferentialAttachmentToplogy_oxford_231103.pdf)
+  + [slides](/preferentialAttachment/preferentialAttachmentTopology_oxford_231103.pdf)
 
 * Nov 1, 2023: Applied Algebraic Topology Research Network (AATRN) Online Seminar (invited; virtual)
   + "The Asymptotics of the Expected Betti Numbers of Preferential Attachment Clique Complexes".
@@ -59,7 +59,7 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 * Sep 27, 2023: Probability Seminar (invited), Purdue University
   + The Topology of Preferential Attachment Graphs
-  + [slides](/preferentialAttachment/preferentialAttachmentTopology_perdueProb_230927.pdf)
+  + [slides](/preferentialAttachment/preferentialAttachmentTopology_purdueProb_230927.pdf)
 
 * Sep 20, 2023: Seminario Doctorado, Actividad del Programa de Doctorado "Mathematicas" (invited), University of Seville
   + The Topology of Preferential Attachment
