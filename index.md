@@ -45,11 +45,11 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 ## Talks and Presentations
 
-* Nov 3, 2023: Oxford Applied Topology Seminar
+* Nov 3, 2023: Applied Topology Seminar (invited; virtual), Oxford University
   + "The Expected Betti Numbers of Preferential Attachment Clique Complexes".
   + [slides](/preferentialAttachment/preferentialAttachmentToplogy_oxford_231103.pdf)
 
-* Nov 1, 2023: Applied Algebraic Topology Research Network (AATRN) Online Seminar
+* Nov 1, 2023: Applied Algebraic Topology Research Network (AATRN) Online Seminar (invited; virtual)
   + "The Asymptotics of the Expected Betti Numbers of Preferential Attachment Clique Complexes".
   + [slides](/preferentialAttachment/preferentialAttachmentTopology_aatrn_231101.pdf)
 
