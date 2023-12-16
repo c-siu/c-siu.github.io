@@ -131,6 +131,7 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 If you are interested in doing an undergradate reading / research project, send me an email!
 
+* Fall 2022 Rongyi He on [Preferential Attachment Models](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/subgraphs-in-preferential-attachment-models/7368A4DC7190D8504F656B1FF6872FC0)
 * Fall 2021 Luis Hoderlein on Dimension Reduction and [UMAP](https://arxiv.org/abs/1802.03426), and [Category Theory of Mapper](/mentoring/DRP_22S_category_exercise.pdf)
 * Fall 2021 Tom Shi on [Ranking of Graph Data](https://link.springer.com/article/10.1007/s10107-010-0419-x)
 * Spring 2021 Andrey Yao on [Computational Topology II: From Persistent Homology to Ripser](/mentoring/DRP_21S.pdf)
