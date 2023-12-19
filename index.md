@@ -45,6 +45,17 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 ## Talks and Presentations
 
+* Dec 6, 2023: Topology Seminar (invited), The Chinese University of Hong Kong
+ + "Topological Data Analysis and Scale-Free Networks"
+ + [slides](/preferentialAttachment/preferentialAttachmentTopology_cuhk_231206)
+* Nov 17, 2023: Northeast Probability Seminar, New York University
+ + "Asymptotics of Expected Betti Numbers of Preferential Attachment Clique Complexes"
+ + [slides](/preferentialAttachment/preferentialAttachmentTopology_nyu_231117.pdf)
+
+* Nov 12, 2023: Binghamton University Graduate Combinatorics, Algebra and Topology (BUGCAT 2023), Binghamton University
+ + "Betti Numbers of Preferential Attachment Flag Complexes"
+ + [slides](/preferentialAttachment/preferentialAttachmentTopology_bugcat_231112.pdf)
+
 * Nov 3, 2023: Applied Topology Seminar (invited; virtual), Oxford University
   + "The Expected Betti Numbers of Preferential Attachment Clique Complexes".
   + [slides](/preferentialAttachment/preferentialAttachmentTopology_oxford_231103.pdf)
