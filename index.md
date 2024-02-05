@@ -153,7 +153,8 @@ If you are interested in doing an undergradate reading / research project, send 
 
 * Mathematical talks
   + [How to Avoid Death by PowerPoint](https://youtu.be/Iwpi1Lm6dFo) by D. Phillips
-  + [Tips compiled by Dan Margalit](https://dmargalit7.math.gatech.edu/tsr/talks.shtml)
+  + [Tips compiled by Prof. D. Margalit](https://dmargalit7.math.gatech.edu/tsr/talks.shtml)
+  + [Why we choke under pressure -- and how to avoid it](https://www.youtube.com/watch?v=OrB9JBEk1ds) by Prof. S. Beilock
 
 * Mathematical writing
   + [Writing a Math Phase Two Paper](https://www.mit.edu/afs/athena.mit.edu/course/other/mathp2/www/piil.html) by Prof. S. Kleiman and its [pdf version](https://www.math.uchicago.edu/~may/VIGRE/VIGRE2010/piiUJM2.pdf).
