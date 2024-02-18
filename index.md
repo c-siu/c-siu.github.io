@@ -49,7 +49,7 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
   + "Detecting Weak Topological Signals in Noisy Environments"
   + [slides](/RDAD/RDAD_buffalo.pdf)
 
-* Feb 9, 2024:  (invited), University of Florida Topological Data Analysis conference. University of Florida
+* Feb 9, 2024: University of Florida Topological Data Analysis conference (invited). University of Florida
   + "Homology and Homotopy Properties of Scale-Free Networks"
   + [slides](/preferentialAttachment/preferentialAttachmentTopology_florid_appliedTopo_240209.pdf)
 
