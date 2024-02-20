@@ -18,8 +18,9 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
   + C. Siu, G. Samorodnitsky, C. Yu, and R. He
   + [(arxiv)](https://arxiv.org/abs/2305.11259) [(video)](https://www.youtube.com/watch?v=1ywYoqFn1-o)[(poster)](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf) [(slides)](/preferentialAttachment/preferentialAttachmentTopology_sevilleAppliedTopo_230920.pdf) [(codes)](https://github.com/carolinerongyi/Preferential_Attachment_Clique_Complex)
 
-* Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration (Submitted)
+* Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
+  + Accepted by Journal of Applied and Computational Topology
   + [(arxiv)](https://arxiv.org/abs/2204.07821) [(video)](https://www.youtube.com/watch?v=X5c3_bbwQ7Q) [(source codes)](https://github.com/c-siu/
 RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min_slides.pdf)
 
