@@ -46,13 +46,17 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 ## Talks and Presentations
 
+* Mar 8, 2024: Data Science and Applied Topology Seminar (invited), City University of New York
+  + "Homology and Homotopy Properties of Scale-Free Complexes"
+  + [slides](/preferentialAttachment/preferentialAttachmentTopology_cuny_240308.pdf)
+
 * Feb 16, 2024: Hot Topics in Data Science (invited), University at Buffalo
   + "Detecting Weak Topological Signals in Noisy Environments"
   + [slides](/RDAD/RDAD_buffalo.pdf)
 
 * Feb 9, 2024: University of Florida Topological Data Analysis conference (invited). University of Florida
   + "Homology and Homotopy Properties of Scale-Free Networks"
-  + [slides](/preferentialAttachment/preferentialAttachmentTopology_florid_appliedTopo_240209.pdf)
+  + [slides](/preferentialAttachment/preferentialAttachmentTopology_florida_appliedTopo_240209.pdf)
 
 * Feb 9, 2023: Topology Seminar (invited), The Chinese University of Hong Kong
   + "Topological Data Analysis and Scale-Free Networks"
