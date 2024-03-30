@@ -6,7 +6,7 @@ He is looking for a postdoc position for 2024/25.
 
 - email: cs2323 at cornell dot edu
 - [Google scholar](https://scholar.google.com/citations?hl=en&user=rKVyMkIAAAAJ)
-- [resume](/resume.pdf)
+- [CV](/resume.pdf)
 
 Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorship), and [Personal](#personal) sections.
 
