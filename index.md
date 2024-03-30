@@ -20,7 +20,7 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 
 * Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
   + C. Siu, G. Samorodnitsky, C. Yu, and A. Yao
-  + Accepted by Journal of Applied and Computational Topology
+  + [Journal of Applied and Computational Topology 2024](https://link.springer.com/epdf/10.1007/s41468-024-00166-9?sharing_token=3hoFacOktfS4sTIBL5LC5ve4RwlQNchNByi7wbcMAY47DSmQzOXouZBwr27JAX6uYpT4j2zuodeXKDpOtlgrHtQkdzjZOfWCs6NAenYTqsIh4R6--fpnpqwbR1BTzw9M47skddQyFP0rzAnaJNlSWOixc1QzUd7zqNb37kblBv8%3D)
   + [(arxiv)](https://arxiv.org/abs/2204.07821) [(video)](https://www.youtube.com/watch?v=X5c3_bbwQ7Q) [(source codes)](https://github.com/c-siu/
 RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min_slides.pdf)
 
