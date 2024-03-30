@@ -46,6 +46,9 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 ## Talks and Presentations
 
+* Mar 23, 2024: Mid-Atlantic Topology Conference (poster), Northeastern University
+  + "Topology of Scale-Free Complexes -- Homology and Homotopy"
+  + [poster](/preferentialAttachment/preferentialAttachmentTopology_poster2)
 * Mar 8, 2024: Data Science and Applied Topology Seminar (invited), City University of New York
   + "Homology and Homotopy Properties of Scale-Free Complexes"
   + [slides](/preferentialAttachment/preferentialAttachmentTopology_cuny_240308.pdf)
