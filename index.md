@@ -183,6 +183,8 @@ If you are interested in doing an undergradate reading / research project, send 
   + [More tips compiled by Prof. D. Margalit](https://dmargalit7.math.gatech.edu/tsr/writing.shtml)
   + [What other undergraduates wrote at Chicago and their Latex templates](https://math.uchicago.edu/~may/REU2022/)
   + [LaTex Tutorials](https://www.overleaf.com/learn/latex/Tutorials) on Overleaf
+  + [Mathcha](https://www.mathcha.io/), a graphical interface for drawing Tikz diagrams
+  + [tikzcd-editor](https://tikzcd.yichuanshen.de/), a graphical interface for drawing commutative diagrams
 * Coding skills
   + Some Stackexchange and Stack Overflow discussions on [self-documenting codes](https://stackoverflow.com/questions/209015/what-is-self-documenting-code-and-can-it-replace-well-documented-code), [code reuse](https://softwareengineering.stackexchange.com/questions/392686/how-to-obey-dry-principle), [unit testing](https://stackoverflow.com/questions/652292/what-is-unit-testing-and-how-do-you-do-it), [quality codes](https://softwareengineering.stackexchange.com/questions/99980/develop-fast-and-buggy-then-correct-errors-or-be-slow-careful-for-each-line-of?noredirect=1&lq=1) and [the use of debuggers](https://softwareengineering.stackexchange.com/questions/78152/real-programmers-use-debuggers)
   + The [SOLID](https://en.wikipedia.org/wiki/SOLID) principles for writing clean codes
