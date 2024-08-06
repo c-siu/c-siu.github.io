@@ -1,10 +1,10 @@
-Chunyin Siu (Alex) is a PhD candidate at Cornell University at [the Center for Applied Mathematics](https://www.cam.cornell.edu/cam), and is a [Croucher scholar (2019)](https://scholars.croucher.org.hk/scholars/siu-chun-yin) and a [Youde scholar](https://www.wfsfaa.gov.hk/sfo/seymf/en/index.htm) [(2018)](https://www.wfsfaa.gov.hk/sfo/pdf/common/Form/sgl/seym8.pdf).
+Chunyin Siu (Alex) is a postdoctoral scholar in the [Brain Dynamics Lab](https://braindynamicslab.github.io/), led by [Prof. Mannish Saggar](https://braindynamicslab.github.io/team/manish-saggar/), at the Stanford University School of Medicine. He specializes in topological data analysis and its intersection with probability and statistics.
 
-His primary research interests lie in the intersection of topological data analysis, network analysis, topological statistics and computational geometry. He is advised by [Prof. Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/). Before coming to Cornell University, he was a MPhil. student advised by [Prof. Ronald (Lokming) Lui](http://www.lokminglui.com/) at the Chinese University of Hong Kong.
+He got his PhD degree in Applied Mathematics at [Cornell University](https://www.cam.cornell.edu/cam)) under the supervision of [Prof. Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/). Before that, he got this MPhil. degree in Mathematics at [the Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/) under the supervision of [Prof. Ronald (Lokming) Lui](http://www.lokminglui.com/) 
 
-He is looking for a postdoc position for 2024/25.
+He is a [Croucher fellow (2024) and scholar (2019)](https://scholars.croucher.org.hk/scholars/siu-chun-yin), and a [Youde scholar](https://www.wfsfaa.gov.hk/sfo/seymf/en/index.htm) [(2018)](https://www.wfsfaa.gov.hk/sfo/pdf/common/Form/sgl/seym8.pdf).
 
-- email: cs2323 at cornell dot edu
+- email: siuc at stanford dot edu
 - [Google scholar](https://scholar.google.com/citations?hl=en&user=rKVyMkIAAAAJ)
 - [CV](/resume.pdf)
 
@@ -13,6 +13,10 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 ## Research and Publications
 
 ### Applied Topology
+
+* The Topological Behavior of Preferential Attachment Graphs (Submitted)
+ + C. Siu
+ + [(arxiv)](https://arxiv.org/abs/2406.17619)
 
 * Betti Numbers of Preferential Attachment Complexes (Submitted)
   + C. Siu, G. Samorodnitsky, C. Yu, and R. He
@@ -163,6 +167,7 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 If you are interested in doing an undergradate reading / research project, send me an email!
 
+* Fall 2023 Avhan Misra on the [topological behavior of preferential attachment graphs](https://arxiv.org/abs/2406.17619)
 * Fall 2022 Rongyi He on [Preferential Attachment Models](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/subgraphs-in-preferential-attachment-models/7368A4DC7190D8504F656B1FF6872FC0)
 * Fall 2021 Luis Hoderlein on Dimension Reduction and [UMAP](https://arxiv.org/abs/1802.03426), and [Category Theory of Mapper](/mentoring/DRP_22S_category_exercise.pdf)
 * Fall 2021 Tom Shi on [Ranking of Graph Data](https://link.springer.com/article/10.1007/s10107-010-0419-x)
