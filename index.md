@@ -1,6 +1,6 @@
 Chunyin Siu (Alex) is a postdoctoral scholar in the [Brain Dynamics Lab](https://braindynamicslab.github.io/), led by [Prof. Mannish Saggar](https://braindynamicslab.github.io/team/manish-saggar/), at the Stanford University School of Medicine. He specializes in topological data analysis and its intersection with probability and statistics.
 
-He got his PhD degree in Applied Mathematics at [Cornell University](https://www.cam.cornell.edu/cam)) under the supervision of [Prof. Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/). Before that, he got this MPhil. degree in Mathematics at [the Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/) under the supervision of [Prof. Ronald (Lokming) Lui](http://www.lokminglui.com/) 
+He got his PhD degree in [Applied Mathematics at Cornell University](https://www.cam.cornell.edu/cam) under the supervision of [Prof. Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/). Before that, he got this MPhil. degree in [Mathematics at the Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/) under the supervision of [Prof. Ronald (Lokming) Lui](http://www.lokminglui.com/).
 
 He is a [Croucher fellow (2024) and scholar (2019)](https://scholars.croucher.org.hk/scholars/siu-chun-yin), and a [Youde scholar](https://www.wfsfaa.gov.hk/sfo/seymf/en/index.htm) [(2018)](https://www.wfsfaa.gov.hk/sfo/pdf/common/Form/sgl/seym8.pdf).
 
@@ -15,8 +15,8 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 ### Applied Topology
 
 * The Topological Behavior of Preferential Attachment Graphs (Submitted)
- + C. Siu
- + [(arxiv)](https://arxiv.org/abs/2406.17619)
+  + C. Siu
+  + [(arxiv)](https://arxiv.org/abs/2406.17619)
 
 * Betti Numbers of Preferential Attachment Complexes (Submitted)
   + C. Siu, G. Samorodnitsky, C. Yu, and R. He
