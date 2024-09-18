@@ -5,7 +5,7 @@ He got his PhD degree in [Applied Mathematics at Cornell University](https://www
 He is a [Croucher fellow (2024) and scholar (2019)](https://scholars.croucher.org.hk/scholars/siu-chun-yin), and a [Youde scholar](https://www.wfsfaa.gov.hk/sfo/seymf/en/index.htm) [(2018)](https://www.wfsfaa.gov.hk/sfo/pdf/common/Form/sgl/seym8.pdf).
 
 - email: siuc at stanford dot edu
-- [Google scholar](https://scholar.google.com/citations?hl=en&user=rKVyMkIAAAAJ)
+- [Google scholar](https://scholar.google.com/citations?user=9OLyBNIAAAAJ)
 - [CV](/resume.pdf)
 
 Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorship), and [Personal](#personal) sections.
@@ -52,7 +52,7 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 * Mar 23, 2024: Mid-Atlantic Topology Conference (poster), Northeastern University
   + "Topology of Scale-Free Complexes -- Homology and Homotopy"
-  + [poster](/preferentialAttachment/preferentialAttachmentTopology_poster2)
+  + [poster](/preferentialAttachment/preferentialAttachmentTopology_poster2.pdf)
 * Mar 8, 2024: Data Science and Applied Topology Seminar (invited), City University of New York
   + "Homology and Homotopy Properties of Scale-Free Complexes"
   + [slides](/preferentialAttachment/preferentialAttachmentTopology_cuny_240308.pdf)
