@@ -1,4 +1,4 @@
-Chunyin Siu (Alex) is a postdoctoral scholar in the [Brain Dynamics Lab](https://braindynamicslab.github.io/), led by [Prof. Mannish Saggar](https://braindynamicslab.github.io/team/manish-saggar/), at the Stanford University School of Medicine. He specializes in topological data analysis and its intersection with probability and statistics.
+Chunyin Siu (Alex) is a postdoctoral scholar in the [Brain Dynamics Lab](https://braindynamicslab.github.io/), led by [Prof. Mannish Saggar](https://braindynamicslab.github.io/team/manish-saggar/), at the Stanford University School of Medicine. He specializes in topological data analysis and its application in analyzing neuroimaging data.
 
 He got his PhD degree in [Applied Mathematics at Cornell University](https://www.cam.cornell.edu/cam) under the supervision of [Prof. Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/). Before that, he got this MPhil. degree in [Mathematics at the Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/) under the supervision of [Prof. Ronald (Lokming) Lui](http://www.lokminglui.com/).
 
@@ -18,7 +18,7 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
   + C. Siu
   + [(arxiv)](https://arxiv.org/abs/2406.17619)
 
-* Betti Numbers of Preferential Attachment Complexes (Submitted)
+* Betti Numbers of Preferential Attachment Complexes (to appear in Advances in Applied Probability in Sep 2025)
   + C. Siu, G. Samorodnitsky, C. Yu, and R. He
   + [(arxiv)](https://arxiv.org/abs/2305.11259) [(video)](https://www.youtube.com/watch?v=1ywYoqFn1-o)[(poster)](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf) [(slides)](/preferentialAttachment/preferentialAttachmentTopology_sevilleAppliedTopo_230920.pdf) [(codes)](https://github.com/carolinerongyi/Preferential_Attachment_Clique_Complex)
 
