@@ -18,8 +18,9 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
   + C. Siu
   + [(arxiv)](https://arxiv.org/abs/2406.17619)
 
-* Betti Numbers of Preferential Attachment Complexes (to appear in Advances in Applied Probability in Sep 2025)
+* Betti Numbers of Preferential Attachment Complexes
   + C. Siu, G. Samorodnitsky, C. Yu, and R. He
+  + [Advances in Applied Probability 2025](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/asymptotics-of-the-expected-betti-numbers-of-preferential-attachment-clique-complexes/5A7074FC4F88DFDD609655A80B26C055)
   + [(arxiv)](https://arxiv.org/abs/2305.11259) [(video)](https://www.youtube.com/watch?v=1ywYoqFn1-o)[(poster)](/preferentialAttachment/preferentialAttachmentTopology_poster.pdf) [(slides)](/preferentialAttachment/preferentialAttachmentTopology_sevilleAppliedTopo_230920.pdf) [(codes)](https://github.com/carolinerongyi/Preferential_Attachment_Clique_Complex)
 
 * Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance (RDAD) Filtration
