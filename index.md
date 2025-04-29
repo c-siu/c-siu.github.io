@@ -8,13 +8,15 @@ He is a [Croucher fellow (2024) and scholar (2019)](https://scholars.croucher.or
 - [Google scholar](https://scholar.google.com/citations?user=9OLyBNIAAAAJ)
 - [CV](/resume.pdf)
 
-Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorship), and [Personal](#personal) sections.
+I love collaboration. If you are a grad student (or an ambitious undergrad) looking for challenging problems to solve in probability, topology, neuroscience, or psychiatry, feel free to reach out! Some of the problems I am thinking about are in the [Open Problems](#open-problems) section.
+
+Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorship), [Open Problems](#open-problems), and [Personal](#personal) sections.
 
 ## Research and Publications
 
 ### Applied Topology
 
-* The Topological Behavior of Preferential Attachment Graphs (Submitted)
+* The Topological Behavior of Preferential Attachment Graphs (accepted by SIAM Journal on Applied Algebra and Geometry)
   + C. Siu
   + [(arxiv)](https://arxiv.org/abs/2406.17619)
 
@@ -211,10 +213,55 @@ If you are interested in doing an undergradate reading / research project, send 
   + at [MSRI](https://www.msri.org/web/msri/education/for-undergraduates/msri-up)
   + through many [NSF-funded programs](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5044&showItems=All)
 
+## Open Problems
+
+Questions are arranged roughly in descending order of abstraction. If you are a neuroscientist, I suggest starting from the bottom.
+
+* Probability x Topology: Random Graphs and Simplicial Complexes
+  + Background: Combinatorial properties and connectivity of random graphs have been extensively studied, but their algebraic topological properties are poorly understood, unless when they are extremely homogeneous. This poor understanding limits our ability to rigorously model the higher-order connectivity of real-world networks, which have been gaining popularity in various scientific domains. Of course, real-world networks are rarely homogeneous.
+  + Question: Investigate the Betti numbers of the clique complex of the stochastic block model. Betti numbers are the simplest topological invariants, and the stochastic block model is the simplest inhomogeneous random graphs.
+  + Literature: A lot of work on homogeneous random graphs, and on stochastic block model. I have two papers on the topology of preferentail attachment graphs, which is inhomogeneous. There is a poster due to Darrick Lee on some computational results.
+
+* Probability x Algebra: MCMC for Sampling Random Chain Complexes
+  + Background: A random chain complex is a generalization of random matrices. Formally, a chain complex is a sequence of abelian groups (or vector spaces) with homomorphisms between consecutive groups such that adjacent homomorphisms compose to 0. It is an algebraic language that allows us to ``compute" with topological objects. Random chain complexes reveals topological signal in real data by informing us the topological properties of noise. Sampling from the space of chain complexes is difficult, especially when working with matrices with integer entries or entries in finite fields.
+  + Questions: Develop an efficient MCMC method to sample on the space of finite-length chain complexes (matrix sequences where adjacent pairs compose to 0) with the following data: 
+    - matrix entries: in finite fields, distribution: uniformly; or
+    - matrix entries: integers, distribution: maximum entropy distribution with given sum of second moments of entries
+  + Literature: [[Ginzburg and Pasechnik, 2017]](https://link.springer.com/article/10.1007/s40598-016-0062-6) deals with a model where all matrices are the same. [[Catanzaro and Zabka, 2021]](https://link.springer.com/article/10.1007/s12188-021-00248-w) deals with a model for semi-infinite chain complexes. Real and complex chain complexes admit an SVD [[Brake, Hausentein, Schreyer, Sommese and Stillman, 2019]](https://epubs.siam.org/doi/10.1137/18M1189270). The Macaulay2 package has a random complex package for an inductively built model. The computation can probably be sped up as well.
+
+* Probability x Topology: Percolation and Euler Characteristic (suggested by Gwynne)
+  + Percolation traditionally refers to the formation of giant connected components in a random system. In particular, the critical threshold for bond percolation the 3D integer is unknown but is of great interest. Algebraic topology is relevant, as it is known that this threshold coincides with the 1D homological percolation threshold (Cf. Section 3 of [[Duncan, Kahle, and Schweinhart, 2023]](https://arxiv.org/abs/2011.11903)). See also [[Bobrowski and Skraba, 2020]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032304).
+  + Question: Determine the critical threshold using homological algebra as precisely as possible.
+
+* Probability x Topology: Topology of Random Functions in a High-Dimensional Space (suggested by Auffinger)
+  + Background: We are interested in the topological properties of objects in a very high-dimensional space. The motivation comes from machine learning: The multitude of parameters motivates the high-dimensional part, and the nuisance of local minima motivates the topological part, as local minima correspond to 0-cells of a Morse function.
+  + Question: Consider a random homogeneous cubic polynomial in a very high dimensional Euclidean space, where the randomness comes from iid Gaussian coefficients of each term. Describe the random persistent diagram at homological dimension 1.
+  + Literature: [[Auffinger, Arous, and Li]](https://pubs.aip.org/aip/jmp/article-abstract/63/4/043303/2843034/Sharp-complexity-asymptotics-and-topological?redirectedFrom=fulltext), [[Auffinger, Lerario, and Lundberg, 2021]](https://academic.oup.com/imrn/article/2021/20/15497/5818517?login=false)
+
+* Statistics x Topology: Stable Mapper Graph
+  + Background: The Mapper graph is a data visualization method with rigorous theoretical support. It creates a graph from the input data points, where the nodes are clusters of data points, and nodes corresponding to overlapping clusters have edges between them. The local clustering helps abstractize the dataset to simplify the layout, and the edges break the shackle of low-dimensional Euclidean geometry. However, Mapper is known to have stability issues. This can be overcome in different ways, but the fundamental statistical challenge of partial clutersting in high dimensions has not been addressed.
+  + Question: Incorporate thoughtful statistical techniques into the Mapper pipeline to enhance (or gauge) stability
+  + Literature: There have been several Mapper stability paper (e.g. [[Carriere, Michel, and Oudot, 2018]](https://jmlr.org/papers/v19/17-291.html) [[Brown, Bobrowski, Munch, and Wang, 2021]](https://link.springer.com/article/10.1007/s41468-020-00063-x) [[Dey, Memoli, and Wang, 2016]](https://epubs.siam.org/doi/abs/10.1137/1.9781611974331.ch71)). HDBSCAN is a popular and well studied clustering algorithm. Mode regression (e.g. [[Chen, Genovese, Tibshirani, and Wasserman]](https://projecteuclid.org/journals/annals-of-statistics/volume-44/issue-2/Nonparametric-modal-regression/10.1214/15-AOS1373.full), [[Feng, Fan, and Suykens, 2020]](https://jmlr.csail.mit.edu/papers/v21/17-068.html))
+  * Topology x Neuroscience: Persistent Homology of Human Brain Activity in Different Conditions
+    + Background: The network model of the brain has been proposed for over a decade, and the main tool is functional conenctivity, i.e. the Pearson correlation of the activation of different brain regions over time. However, the global emergent properties of the whole brain is still poorly understood.
+    + Question: Describe brain activity with persistent homology and devise ways to compare across different individuals.
+  * Dynamical system x Neuroscience: Dynamics of Psychopathology
+    + Background: Psychiatry sets itself apart from the rest of medicine by its emphasis on behavior rather than biology. Since behavior takes place over time, dynamics is a crucial, yet often overlooked component of psychopathology. Modern neuroscience has shedded light on the biological basis of certain mental phenomena (e.g. amygdala is associated with the fear). A general dynamical model for the development of different psychopathology in the brain in response to different environmental factors is a promising direction for discovering the biological underpinnings of psychiatry.
+    + Question: Develop a biology-based dynamical system for different psycho-development and pathology
+  * Time series analysis x Neuroscience: Stationarity of the Resting Brain
+    + The brain has a lot spontaneous activity, but its study is extremely difficult. Basic statistcal questions like the stationarity are still quite open.
+    + Question: Investigate the stationarity of brain activity as a functional (time series that takes value in a high-dimensional space)
+    + Literature: Use techniques from functional time series, e.g. [[van Delft and Holger Dette, 2024]](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-2/A-general-framework-to-quantify-deviations-from-structural-assumptions-in/10.1214/24-AOS2358.short), [[van Delft, Characiejus and Dette, 2021]](https://www3.stat.sinica.edu.tw/statistica/J31N3/J31N312/J31N312.html)
+  * Harmonic Analysis x Neuroimaging: Accurate Measurement of Subcortical Neuroactivity
+    + functional MRI for subcortical regions are generally noisy, because of (1) the distance from the scalp, (2) physiological movement inside the brain (e.g. fluid flow, breathing), and (3) mechanical imgaging noise.
+    + Question: Devise algorithms / techniques to image subcortical neuroactivity more accurately.
+
 ## Personal
 
 I am from Hong Kong. I would be really happy if you greet me with "zou sun" and "ng on" (Good morning and Good afternoon in Cantonese).
 
 My favorite author is Dostoyevsky; favorite TV show, Taskmaster. Need to balance the heaviness and the lightness.
+
+I am an avid singer. I am a barritone at a choir (University Singers) at Stanford, enjoying the mostly classical reportoire selected by our wonderful director Robert Morgan. I took singing lessons from my vocal coach, Gary Moulsdale, for three years. He was like a kind uncle to me.
 
 I am mostly an indoor guy, but Ithaca has made me more active. Picked up hiking and ice-skating here. Try to catch me at a trail or in the rink.
