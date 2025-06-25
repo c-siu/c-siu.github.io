@@ -16,8 +16,9 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 
 ### Applied Topology
 
-* The Topological Behavior of Preferential Attachment Graphs (accepted by SIAM Journal on Applied Algebra and Geometry)
+* The Topological Behavior of Preferential Attachment Graphs
   + C. Siu
+  + [SIAM Journal on Applied Algebra and Geometry 2025](https://epubs.siam.org/eprint/BNU7I3GPCN52D6THGBNY/full)
   + [(arxiv)](https://arxiv.org/abs/2406.17619)
 
 * Betti Numbers of Preferential Attachment Complexes
