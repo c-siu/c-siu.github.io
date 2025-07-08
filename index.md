@@ -265,6 +265,6 @@ I am from Hong Kong. I would be really happy if you greet me with "zou sun" and 
 
 My favorite author is Dostoyevsky; favorite TV show, Taskmaster. Need to balance the heaviness and the lightness.
 
-I am an avid singer. I am a barritone at a choir (University Singers) at Stanford, enjoying the mostly classical reportoire selected by our wonderful director Robert Morgan. I took singing lessons from my vocal coach, Gary Moulsdale, for three years. He was like a kind uncle to me.
+I am an avid singer. I am a baritone at a choir (University Singers) at Stanford, enjoying the mostly classical reportoire selected by our wonderful director Robert Morgan. I took singing lessons from my vocal coach, Gary Moulsdale, for three years. He was like a kind uncle to me.
 
 I am mostly an indoor guy, but Ithaca has made me more active. Picked up hiking and ice-skating here. Try to catch me at a trail or in the rink.
