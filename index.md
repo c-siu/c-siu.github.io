@@ -6,7 +6,7 @@ He is a [Croucher fellow (2024) and scholar (2019)](https://scholars.croucher.or
 
 - email: siuc at stanford dot edu
 - [Google scholar](https://scholar.google.com/citations?user=9OLyBNIAAAAJ)
-- [CV](/resume.pdf)
+- [CV](/CV.pdf)
 
 I love collaboration. If you are a grad student (or an ambitious undergrad) looking for challenging problems to solve in probability, topology, neuroscience, or psychiatry, feel free to reach out! Some of the problems I am thinking about are in the [Open Problems](#open-problems) section.
 
