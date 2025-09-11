@@ -203,6 +203,8 @@ If you are interested in doing an undergradate reading / research project, send 
   + Dr. M. Lee's [Conda tutorial](https://astrobiomike.github.io/unix/)
   + Documentation of [virtual environments](https://docs.python.org/3/library/venv.html)
   + [Introduction to Github](https://github.com/skills/introduction-to-github) on Github
+* Statistics
+  + [Tutorials from UCLA](https://stats.oarc.ucla.edu/r/) (see also the [FAQs](https://stats.oarc.ucla.edu/r/faq/))
 * Data management
   + Harvard LMA RDMWG's [tips for naming files](https://datamanagement.hms.harvard.edu/plan-design/file-naming-conventions)
   + The [FAIR principle](https://www.go-fair.org/fair-principles/)
