@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.1)  26 JUL 2025 19:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.1)  1 DEC 2025 13:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -302,26 +302,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 44.
  [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (0.95685pt too wide) in paragraph at lines 224--225
-[]\T1/cmr/m/n/10.95 "Detection of Small Topo-log-i-cal Fea-tures by the Scale-I
-nvariant Ro-bust Density-Aware Dis-tance (RDAD)
- []
-
-[2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 476.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 476.
  (./CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 476.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 476.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  5866 strings out of 480608
  89740 string characters out of 5903631
- 362396 words of memory out of 5000000
+ 363394 words of memory out of 5000000
  21677 multiletter control sequences out of 15000+600000
  543000 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -336,10 +330,10 @@ cal/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/loca
 l/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/
 texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfxc1200.pfb></usr/local/te
 xlive/2020/texmf-dist/fonts/type1/public/cm-super/sfxc1440.pfb>
-Output written on CV.pdf (3 pages, 151373 bytes).
+Output written on CV.pdf (3 pages, 154239 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 78 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
