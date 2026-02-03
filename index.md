@@ -148,14 +148,16 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 ## Teaching
 
-* [MATH1920 Spring 2023](/teaching/2301_1920.md)
-* [MATH1920 Fall 2022](https://canvas.cornell.edu/courses/42251)
-* [MATH2020 Spring 2019](/teaching/1901_2020.md)
-* [EPYMT Number Theory and Cryptography, Summer 2018](http://epymt.math.cuhk.edu.hk/course/NTC2018.html)
-* [MATH4060 Fall 2018](/teaching/1809_4060.md)
-* [MATH2010 Spring 2018](/teaching/1801_2010.md)
-* MATH1510 Spring 2018
-* MATH1540 Fall 2017
+* [Introduction to Data Analysis for Neuroscientists, journal club for Brain Dynamics Lab, Stanford)](/teaching/bdl_intro_stat_topology/introTDA_stat.pdf)
+* [Introduction to Topological Data Analysis for Neuroscientists, journal club for Brain Dynamics Lab, Stanford)](/teaching/bdl_intro_stat_topology.pdf/introTDA_topology.pdf)
+* [MATH1920 Spring 2023, Cornell](/teaching/2301_1920.md)
+* [MATH1920 Fall 2022, Cornell](https://canvas.cornell.edu/courses/42251)
+* [MATH2020 Spring 2019, CUHK](/teaching/1901_2020.md)
+* [EPYMT Number Theory and Cryptography, Summer 2018, CUHK](http://epymt.math.cuhk.edu.hk/course/NTC2018.html)
+* [MATH4060 Fall 2018, CUHK](/teaching/1809_4060.md)
+* [MATH2010 Spring 2018, CUHK](/teaching/1801_2010.md)
+* MATH1510 Spring 2018, CUHK
+* MATH1540 Fall 2017, CUHK
 
 ### Resources for Learning
 
