@@ -1,4 +1,4 @@
-Chunyin Siu (Alex) is a postdoctoral scholar in the [Brain Dynamics Lab](https://braindynamicslab.github.io/), led by [Prof. Mannish Saggar](https://braindynamicslab.github.io/team/manish-saggar/), at the Stanford University School of Medicine. He specializes in topological data analysis and its application in analyzing neuroimaging data.
+Chunyin Siu (Alex) is a postdoctoral scholar in the [Brain Dynamics Lab](https://braindynamicslab.github.io/), led by [Prof. Manish Saggar](https://braindynamicslab.github.io/team/manish-saggar/), at the Stanford University School of Medicine. He specializes in topological data analysis and its application in analyzing neuroimaging data.
 
 He got his PhD degree in [Applied Mathematics at Cornell University](https://www.cam.cornell.edu/cam) under the supervision of [Prof. Gennady Samorodnitsky](https://people.orie.cornell.edu/gennady/). Before that, he got this MPhil. degree in [Mathematics at the Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/) under the supervision of [Prof. Ronald (Lokming) Lui](http://www.lokminglui.com/).
 
