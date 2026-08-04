@@ -15,6 +15,10 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 ## Research and Publications
 
 ### Applied Topology
+* The Global Topology of Orthogonally Decomposable Tensor
+Landscapes
+  + C. Siu
+  + [(preprint)](/POD_tensor/positive_orthogonally_decomposable_tensor_260803.pdf)
 
 * Global topology of brain-wide co-fluctuations links task1
 states, personality, and behavioral symptom dimensions
