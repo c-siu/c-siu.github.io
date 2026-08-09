@@ -14,16 +14,17 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 
 ## Research and Publications
 
+### Computational Neuroscience
+* Global topology of brain-wide co-fluctuations links task1
+states, personality, and behavioral symptom dimensions
+  + C. Siu, S. Pirzada, C. Glick, R. Betzel, B. Petri, J.R. Manning, L. Williams, M. Saggar
+  + [(bioarXiv)](https://www.biorxiv.org/content/10.64898/2026.04.30.722005v1)[(poster for mathematicians)](/edgeTimeSeries/poster_TDA.pdf)
+
 ### Applied Topology
 * The Global Topology of Orthogonally Decomposable Tensor
 Landscapes
   + C. Siu
   + [(preprint)](/POD_tensor/positive_orthogonally_decomposable_tensor_260807.pdf)
-
-* Global topology of brain-wide co-fluctuations links task1
-states, personality, and behavioral symptom dimensions
-  + C. Siu, S. Pirzada, C. Glick, R. Betzel, B. Petri, J.R. Manning, L. Williams, M. Saggar
-  + [(bioarXiv)](https://www.biorxiv.org/content/10.64898/2026.04.30.722005v1)[(poster for mathematicians)](/edgeTimeSeries/poster_TDA.pdf)
 
 * The Topological Behavior of Preferential Attachment Graphs
   + C. Siu
