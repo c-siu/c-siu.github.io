@@ -18,7 +18,7 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 * Global topology of brain-wide co-fluctuations links task1
 states, personality, and behavioral symptom dimensions
   + C. Siu, S. Pirzada, C. Glick, R. Betzel, B. Petri, J.R. Manning, L. Williams, M. Saggar
-  + [(bioarXiv)](https://www.biorxiv.org/content/10.64898/2026.04.30.722005v1)[(poster for mathematicians)](/edgeTimeSeries/poster_TDA.pdf)
+  + [(bioarXiv)](https://www.biorxiv.org/content/10.64898/2026.04.30.722005v1)[(codes)](https://github.com/braindynamicslab/edge_time_series_mapper)[slides for neuroscientists](/edgeTimeSeries/HOI_talk_dibs_2026)[(poster for mathematicians)](/edgeTimeSeries/poster_TDA.pdf)
 
 ### Applied Topology
 * The Global Topology of Orthogonally Decomposable Tensor
@@ -159,7 +159,7 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 ## Teaching
 
 * [Introduction to Data Analysis for Neuroscientists, journal club for Brain Dynamics Lab, Stanford)](/teaching/bdl_intro_stat_topology/introTDA_stat.pdf)
-* [Introduction to Topological Data Analysis for Neuroscientists, journal club for Brain Dynamics Lab, Stanford)](/teaching/bdl_intro_stat_topology.pdf/introTDA_topology.pdf)
+* [Introduction to Topological Data Analysis for Neuroscientists, journal club for Brain Dynamics Lab, Stanford)](/teaching/bdl_intro_stat_topology/introTDA_topology.pdf)
 * [MATH1920 Spring 2023, Cornell](/teaching/2301_1920.md)
 * [MATH1920 Fall 2022, Cornell](https://canvas.cornell.edu/courses/42251)
 * [MATH2020 Spring 2019, CUHK](/teaching/1901_2020.md)
@@ -281,4 +281,4 @@ My favorite author is Dostoyevsky; favorite TV show, Taskmaster. Need to balance
 
 I am an avid singer. I am a baritone at a choir (University Singers) at Stanford, enjoying the mostly classical reportoire selected by our wonderful director Robert Morgan. I took singing lessons from my vocal coach, Gary Moulsdale, for three years. He was like a kind uncle to me.
 
-I am mostly an indoor guy, but Ithaca has made me more active. Picked up hiking and ice-skating here. Try to catch me at a trail or in the rink.
+I am mostly an indoor guy, but Ithaca and the Bay Area have made me more active. Picked up hiking and ice-skating here. Try to catch me at a trail or in the rink.
