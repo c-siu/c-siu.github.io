@@ -71,6 +71,10 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
   + A Novel Topological Characterization of Brain-wide Cofluctuation Patterns over Time Reveals Brain-Behavior Links across Spontaneous and Evoked Activity
   + [slides](/edgeTimeSeries/HOI_talk_dibs_2026.pdf)
 
+* May 19, 2026: Foundations of Computational Geometry and Topology (poster), ICERM
+  + A Novel Topological Characterization of Brain-wide Cofluctuation Patterns over Time Reveals Brain-Behavior Links across Spontaneous and Evoked Activity
+  + [poster](/edgeTimeSeries/poster_TDA.pdf)
+
 * Jun 3, 2026: Computational and Applied Mathematics Seminar (invited). University of California, Riverside
   + "Topology of Complex Systems - Random Graphs, Tensors, and Neuroscience"
 
