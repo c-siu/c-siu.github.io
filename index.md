@@ -18,7 +18,7 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 * Global topology of brain-wide co-fluctuations links task1
 states, personality, and behavioral symptom dimensions
   + C. Siu, S. Pirzada, C. Glick, R. Betzel, B. Petri, J.R. Manning, L. Williams, M. Saggar
-  + [(bioarXiv)](https://www.biorxiv.org/content/10.64898/2026.04.30.722005v1)[(codes)](https://github.com/braindynamicslab/edge_time_series_mapper)[slides for neuroscientists](/edgeTimeSeries/HOI_talk_dibs_2026)[(poster for mathematicians)](/edgeTimeSeries/poster_TDA.pdf)
+  + [(bioarXiv)](https://www.biorxiv.org/content/10.64898/2026.04.30.722005v1)[(codes)](https://github.com/braindynamicslab/edge_time_series_mapper)[(slides for neuroscientists)](/edgeTimeSeries/HOI_talk_dibs_2026)[(poster for mathematicians)](/edgeTimeSeries/poster_TDA.pdf)
 
 ### Applied Topology
 * The Global Topology of Orthogonally Decomposable Tensor
@@ -63,6 +63,51 @@ RDAD) [(poster for ATMCS 10)](/RDAD/RDAD_poster.pdf) [(slides)](/RDAD/RDAD_20min
 
 
 ## Talks and Presentations
+
+* Aug 4, 2026: Joint Statistics Meeting, Boston
+  + "A Novel Topological Characterization of Brain-wide Cofluctuation Patterns over Time Reveals Brain-Behavior Links across Spontaneous and Evoked Activity"
+
+* Jun 12, 2026: Science Friday of Division of Interdisciplinary Brain Science (invited), Stanford Psychiatry
+  + A Novel Topological Characterization of Brain-wide Cofluctuation Patterns over Time Reveals Brain-Behavior Links across Spontaneous and Evoked Activity
+  + [slides](/edgeTimeSeries/HOI_talk_dibs_2026.pdf)
+
+* Jun 3, 2026: Computational and Applied Mathematics Seminar (invited). University of California, Riverside
+  + "Topology of Complex Systems - Random Graphs, Tensors, and Neuroscience"
+
+* Oct 28, 2025: Topology Seminar (invited). Stanford University
+  + "Topological Data Analysis - Connecting Topology, Probability, and Neuroscience"
+
+* Oct 14, 2025: Computational Persistence (virtual). University of Albany
+  + "A Novel Topological Characterization of Brain-wide Cofluctuation Patterns over Time Reveals Brain-
+Behavior Links across Spontaneous and Evoked Activity"
+  + [slides](edgeTimeSeries/HOI_talk_albany_2025.pdf)
+
+* Jul 8, 2025: SIAM Applied Algebraic Geometry Conference, University of Wisconsin-Madison
+  + "The Topology of Preferential Attachment Clique Complexes - Homology and Homotopy"
+  = [slides](preferentialAttachment/preferentialTopology_madison_250708.pdf)
+
+* Sep 2, 2025: Workshop on Random Simplicial Complexes and Hypergraphs. Nottingham Trent University
+  + "The Topology of Preferential Attachment Clique Complexes - Homology and Homotopy"
+  + [slides](/preferentialAttachment/preferentialTopology_nottingham_250902.pdf)
+
+* Jun 2, 2025: Probability Seminar (invited. Stanford University
+  + "Random topology: The topology of preferential attachment graphs"
+  + [slides](/preferentialAttachment/preferentialTopology_stanford_250602.pdf)
+
+* Feb 4, 2025: Applied Algebraic Topology Research Network (AATRN) Networks Online Seminar (invited; virtual)
+  + "The Topology of Preferential Attachment Clique Complexes - Homology and Homotopy"
+  + [slides](/preferentialAttachment/preferentialTopology_aatrnNetowrk_250204.pdf)
+
+* Sep 24, 2024: Computational Persistence (virtual), Graz University of Technology, Austria
+  + "Detection of small holes by the scale-invariant robust density-aware distance (RDAD) filtration"
+
+* Mar 23, 2024: Mid-Atlantic Topology Conference (poster), Northeastern University
+  + "Topology of Scale-Free Complexes -- Homology and Homotopy"
+  + [poster](/preferentialAttachment/preferentialAttachmentTopology_poster2.pdf)
+
+* Mar 8, 2024: Data Science and Applied Topology Seminar (invited), City University of New York
+  + "Homology and Homotopy Properties of Scale-Free Complexes"
+  + [slides](/preferentialAttachment/preferentialAttachmentTopology_cuny_240308.pdf)
 
 * Mar 23, 2024: Mid-Atlantic Topology Conference (poster), Northeastern University
   + "Topology of Scale-Free Complexes -- Homology and Homotopy"
