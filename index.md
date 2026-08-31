@@ -18,7 +18,7 @@ Scroll down for the [Teaching](#teaching), [Mentorship](#undergraduate-mentorshi
 * Global topology of brain-wide co-fluctuations links task1
 states, personality, and behavioral symptom dimensions
   + C. Siu, S. Pirzada, C. Glick, R. Betzel, B. Petri, J.R. Manning, L. Williams, M. Saggar
-  + [(bioarXiv)](https://www.biorxiv.org/content/10.64898/2026.04.30.722005v1)[(codes)](https://github.com/braindynamicslab/edge_time_series_mapper)[(slides for neuroscientists)](/edgeTimeSeries/HOI_talk_dibs_2026)[(poster for mathematicians)](/edgeTimeSeries/poster_TDA.pdf)
+  + [(bioarXiv)](https://www.biorxiv.org/content/10.64898/2026.04.30.722005v1)[(codes)](https://github.com/braindynamicslab/edge_time_series_mapper)[(slides for neuroscientists)](/edgeTimeSeries/HOI_talk_dibs_2026.pdf)[(poster for mathematicians)](/edgeTimeSeries/poster_TDA.pdf)
 
 ### Applied Topology
 * The Global Topology of Orthogonally Decomposable Tensor
@@ -88,13 +88,13 @@ Behavior Links across Spontaneous and Evoked Activity"
 
 * Jul 8, 2025: SIAM Applied Algebraic Geometry Conference, University of Wisconsin-Madison
   + "The Topology of Preferential Attachment Clique Complexes - Homology and Homotopy"
-  = [slides](preferentialAttachment/preferentialTopology_madison_250708.pdf)
+  + [slides](preferentialAttachment/preferentialTopology_madison_250708.pdf)
 
 * Sep 2, 2025: Workshop on Random Simplicial Complexes and Hypergraphs. Nottingham Trent University
   + "The Topology of Preferential Attachment Clique Complexes - Homology and Homotopy"
   + [slides](/preferentialAttachment/preferentialTopology_nottingham_250902.pdf)
 
-* Jun 2, 2025: Probability Seminar (invited. Stanford University
+* Jun 2, 2025: Probability Seminar (invited). Stanford University
   + "Random topology: The topology of preferential attachment graphs"
   + [slides](/preferentialAttachment/preferentialTopology_stanford_250602.pdf)
 
@@ -109,13 +109,10 @@ Behavior Links across Spontaneous and Evoked Activity"
   + "Topology of Scale-Free Complexes -- Homology and Homotopy"
   + [poster](/preferentialAttachment/preferentialAttachmentTopology_poster2.pdf)
 
-* Mar 8, 2024: Data Science and Applied Topology Seminar (invited), City University of New York
-  + "Homology and Homotopy Properties of Scale-Free Complexes"
-  + [slides](/preferentialAttachment/preferentialAttachmentTopology_cuny_240308.pdf)
-
 * Mar 23, 2024: Mid-Atlantic Topology Conference (poster), Northeastern University
   + "Topology of Scale-Free Complexes -- Homology and Homotopy"
   + [poster](/preferentialAttachment/preferentialAttachmentTopology_poster2.pdf)
+
 * Mar 8, 2024: Data Science and Applied Topology Seminar (invited), City University of New York
   + "Homology and Homotopy Properties of Scale-Free Complexes"
   + [slides](/preferentialAttachment/preferentialAttachmentTopology_cuny_240308.pdf)
