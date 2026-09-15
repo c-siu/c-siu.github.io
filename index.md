@@ -24,7 +24,7 @@ states, personality, and behavioral symptom dimensions
 * The Global Topology of Orthogonally Decomposable Tensor
 Landscapes
   + C. Siu
-  + [(preprint)](/POD_tensor/positive_orthogonally_decomposable_tensor_260912.pdf)
+  + [(arxiv)](https://arxiv.org/abs/2609.14186)
 
 * The Topological Behavior of Preferential Attachment Graphs
   + C. Siu
